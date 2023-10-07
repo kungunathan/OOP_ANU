@@ -7,11 +7,6 @@ public abstract class Person {
     String Address;
     private double PostalAddress;
     private double StreetAddress;
-    public String AddressObject(double PostalAddress, double StreetAddress){
-        this.PostalAddress=PostalAddress;
-        this.StreetAddress=StreetAddress;
-        return PostalAddress+"and"+StreetAddress;
-    }
     //Setter
     public double setPostalAddress(double postalAddress){
         PostalAddress = postalAddress;
