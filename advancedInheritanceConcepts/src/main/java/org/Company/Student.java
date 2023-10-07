@@ -1,6 +1,10 @@
 package org.Company;
 
+<<<<<<< HEAD
 public class Student extends Person implements ISportPerson {
+=======
+public class Student extends Person{
+>>>>>>> origin/master
     String Program;
 
     @Override
