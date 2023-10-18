@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1e45da60-d2b8-4971-bcad-2f634453adf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/oop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/src/main/java/com/example/myfirstapp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyFirstApp/src/main/java/com/example/myfirstapp/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNewApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNewApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNewApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNewApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNewApp/src/main/java/com/example/mynewapp/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyNewApp/src/main/java/com/example/mynewapp/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondApp/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondApp/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondApp/src/main/java/com/example/mysecondapp/Calculator.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySecondApp/src/main/java/com/example/mysecondapp/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wk6Assignment/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wk6Assignment/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wk6Assignment/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wk6Assignment/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wk6Assignment/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wk6Assignment/src/main/java/com/example/wk6assignment/InterestCalculator.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Wk6Assignment/src/main/java/com/example/wk6assignment/InterestCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../myApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../advancedInheritanceConcepts/src/main/java/org/Company/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../advancedInheritanceConcepts/src/main/java/org/Company/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/src/main/java/org/example/Main.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2Wviy6dq2r5R7RIjxQIyqQztruP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "onboarding.tips.debug.path": "/home/nathaniel/IdeaProjects/oop/Arrays2/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1e45da60-d2b8-4971-bcad-2f634453adf9" name="Changes" comment="" />
+      <created>1697619705793</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697619705793</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
